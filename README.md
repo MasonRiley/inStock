@@ -1,1 +1,3 @@
-# This is the read me
+# inStock
+
+## an app to support organized, healthy living.
